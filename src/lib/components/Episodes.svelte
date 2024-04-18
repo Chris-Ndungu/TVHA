@@ -23,7 +23,7 @@
                         <p class="text-gray-500">Episode 1</p>               
                     </div>
                     <h5>Episode title</h5>
-                    <a href="" class="hover:text-orange-600 text-xs">VIEW EPISODE &RightArrow;</a>
+                    <a href="..." class="hover:text-orange-600 text-xs">VIEW EPISODE &RightArrow;</a>
                 </div>
             </div>
             <!--  -->
@@ -37,7 +37,7 @@
                         <p class="text-gray-500">Episode 1</p>               
                     </div>
                     <h5>Episode title</h5>
-                    <a href="" class="hover:text-orange-600 text-xs">VIEW EPISODE &RightArrow;</a>
+                    <a href="..." class="hover:text-orange-600 text-xs">VIEW EPISODE &RightArrow;</a>
                 </div>
             </div>
             <!--  -->
@@ -51,7 +51,7 @@
                         <p class="text-gray-500">Episode 1</p>               
                     </div>
                     <h5>Episode title</h5>
-                    <a href="" class="hover:text-orange-600 text-xs">VIEW EPISODE &RightArrow;</a>
+                    <a href="..." class="hover:text-orange-600 text-xs">VIEW EPISODE &RightArrow;</a>
                 </div>
             </div>
         </div>
